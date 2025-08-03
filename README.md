@@ -1,3 +1,3 @@
 # UXIME design studio
 
-Minimal GitHub Pages site with a custom domain.
+Site with a custom domain.
